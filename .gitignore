@@ -1,0 +1,3 @@
+# Ignored .github action files
+.github/
+.gradle/
